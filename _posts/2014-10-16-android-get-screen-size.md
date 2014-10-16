@@ -1,3 +1,12 @@
+---
+title: "Android - get screen size programmatically"
+description: "Simple android example, first tech post in github."
+layout: post
+tags: android, ui
+category: tech
+comments: yes
+---
+
 If you want the display dimensions in pixels you can use getSize:
 
 ```java
