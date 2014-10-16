@@ -16,7 +16,7 @@ I work for & ♥ [Phunware](http://www.phunware.com/)
 
 ## Elsewhere
 
-You can find me on a variety of world wild interweb sites where my username is usually "rsms".
+You can find me on a variety of world wild interweb sites where my username is usually "yang6n".
 
 - [GitHub](https://github.com/yang6n) — code
 - [Facebook](http://www.facebook.com/yang6n) — friends and photos
