@@ -7,7 +7,9 @@ category: tech
 comments: yes
 ---
 
-My Android Studio and Intellij crash after I upgraded to Yosemite, I thought I have to use Eclipse for the reset of my day. But thanks Jonas Osc, I got it fixed, now it's up and running. 
+My Android Studio and Intellij crash after I upgraded to Yosemite, I thought I have to use Eclipse ADT for the reset of my day. :-(
+
+But thanks Jonas Osc, I got it fixed, now it's up and running. 
 
 To fix it:
 
@@ -21,4 +23,4 @@ To fix it:
 8. Save it, and enjoy!
 
 #####References:
-https://intellij-support.jetbrains.com/entries/27854363-IDE-doesn-t-start-after-updating-to-Mac-OS-Yosemite-or-Mavericks
+[IDE doesn't start after updating to Mac OS Yosemite or Mavericks](https://intellij-support.jetbrains.com/entries/27854363-IDE-doesn-t-start-after-updating-to-Mac-OS-Yosemite-or-Mavericks)
