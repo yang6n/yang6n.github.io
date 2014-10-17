@@ -10,6 +10,7 @@ comments: yes
 My Android Studio and Intellij crash after I upgraded to Yosemite, I thought I have to use Eclipse for the reset of my day. But thanks Jonas Osc, I got it fixed, now it's up and running. 
 
 To fix it:
+
 1. Right click on the app from the Dock
 2. Choose "Options" -> "Show in Finder"
 3. Right click on the app in Finder
