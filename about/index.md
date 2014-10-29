@@ -16,8 +16,8 @@ I work for & ♥ [Phunware](http://www.phunware.com/)
 
 ## Elsewhere
 
-You can find me on a variety of world wild interweb sites where my username is usually "yang6n".
+You can find me on a variety of world wild interweb sites:
 
 - [GitHub](https://github.com/yang6n) — code
-- [Facebook](http://www.facebook.com/yang6n) — friends and photos
+- [Facebook](http://www.facebook.com/yangjian.cd) — friends and photos
 - [Plus](https://www.google.com/+JianYangZ) - posts and photos
