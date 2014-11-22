@@ -1,6 +1,6 @@
 ---
 title: "adb connect Android device over wireless"
-description: "Android Debug Bridge(`adb`) is a versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device. Even better, you can do it without cable."
+description: "Android Debug Bridge (adb) is a versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device. Even better, you can do it without cable."
 layout: post
 tags: android, adb, logcat
 category: tech, dev
