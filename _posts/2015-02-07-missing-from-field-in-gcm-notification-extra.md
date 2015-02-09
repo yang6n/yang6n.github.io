@@ -1,5 +1,6 @@
 ---
 title: "Missing 'from' field from GCM notification extra"
+description: "Handle the notification only from your push sender."
 layout: post
 tags: android, gcm, notification
 category: tech
