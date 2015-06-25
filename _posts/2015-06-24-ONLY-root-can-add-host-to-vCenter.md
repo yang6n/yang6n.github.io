@@ -10,6 +10,7 @@ comments: yes
 I have a Host running on EXSi 5.1.0, a vCenter 5.5 running on it.
 
 I had this problem for few days, googled lots of article, it's turned out: ONLY root account can add host into VMware cluster. 
+
 ```
 License file download from standalone host 000.000.000.00 to vCenter Server failed due to exception: vim.fault.HostConnectFault.
 ```
